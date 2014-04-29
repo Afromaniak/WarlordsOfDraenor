@@ -1,7 +1,7 @@
 WarlordsOfDraenor
 =================
 
-World of Warcraft Emulator - 6.0.1 - Warlords of Draenor - Support Builde 18125 - ** Based TrinityCore **
+World of Warcraft Emulator - 6.0.1 - Warlords of Draenor - Support Builde 18179 - ** Based TrinityCore **
 
 
 The WoD project returns headlining .
